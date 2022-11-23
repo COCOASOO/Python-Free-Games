@@ -6,7 +6,8 @@ Librería Turtle: Es la librería que se utiliza para hacer los juegos. Permite 
 
 https://grantjenks.com/docs/freegames/
 
-Uso:
+Intrucciones de uso
+
 Listar juegos:
 - py -m freegames list
 Iniciar juego:
