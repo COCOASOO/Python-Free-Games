@@ -10,5 +10,6 @@ Intrucciones de uso:
 
 Listar juegos
 - py -m freegames list
+
 Iniciar juego
 - py -m freegames."juego"
