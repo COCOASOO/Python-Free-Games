@@ -1,0 +1,58 @@
+('c:\\Archivos de programa\\Python\\Scripts\\build\\pacman\\pacman.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'c:\\Archivos de programa\\Python\\Scripts\\build\\pacman\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'c:\\Archivos de '
+   'programa\\Python\\Scripts\\build\\pacman\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'c:\\Archivos de '
+   'programa\\Python\\Scripts\\build\\pacman\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'c:\\Archivos de '
+   'programa\\Python\\Scripts\\build\\pacman\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'c:\\Archivos de '
+   'programa\\Python\\Scripts\\build\\pacman\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'c:\\Archivos de '
+   'programa\\Python\\Scripts\\build\\pacman\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\Archivos de '
+   'programa\\Python\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Program '
+   'Files\\Python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'C:\\Program '
+   'Files\\Python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Program '
+   'Files\\Python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pacman',
+   'C:\\Program Files\\Python\\Lib\\site-packages\\freegames\\pacman.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
